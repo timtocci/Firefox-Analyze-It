@@ -1,0 +1,11 @@
+{
+  "name": "Analyze-it",
+  "fullName": "Analyze-it",
+  "id": "jid1-4Y2Ts8pnN0ow1w@jetpack",
+  "description": "Opens various page analytic tools - SEO, CMS, & WHOIS information for any page you visit.",
+  "author": "Timothy Tocci - timothytocci.com",
+  "homepage": "https://s3.amazonaws.com/timothytocci/index.html#firefox",
+  "license": "MIT",
+  "main": "./lib/main.js",
+  "version": "0.9.3"
+}
